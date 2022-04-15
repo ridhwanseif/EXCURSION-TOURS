@@ -1,0 +1,9 @@
+   <div class="cotainer">
+       <h1>Travel Across Zanziber</h1>
+       <p>search for your trip</p>
+       <div class="input-group"> 
+           <input type="text" class="form-control" placeholder="search your trip">
+       </div>
+       <div class="input-group-append">
+           <button type="submit" class="input-group-text btn">search</button>
+       </div>

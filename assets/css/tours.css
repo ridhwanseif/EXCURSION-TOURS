@@ -1,0 +1,49 @@
+.safari{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 325px; 
+   
+}
+.post{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 20px; 
+    background-image: linear-gradient(rgba(218, 170, 170, 0.6),rgba(88, 84, 84, 0.6));
+}
+.area-tours{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.safariBlue {
+   padding-top: 50px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom: 25px; 
+    color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.safariBlue h1{
+    font-size: 30px;
+    text-align: center;
+}
+.safariBlue p{
+    font-size: 25px;
+}
+.col-md-2 {
+    background-image: linear-gradient(rgba(234, 225, 225, 0.6),rgba(206, 197, 197, 0.6));
+}

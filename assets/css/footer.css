@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.footer{
+    height: 100%;
+    background-image: linear-gradient(rgba(93, 69, 75, 0.6),rgb(22, 22, 54));
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 0;
+    padding-top: 40px;
+    width: 100%;
+    overflow: hidden;
+}
+.section-link ul li,.section-follow ul li{
+    list-style: none;
+    position: relative;
+} 
+.section-link ul li a,.section-follow ul li a{
+    text-decoration: none;
+    align-items: center;
+}
