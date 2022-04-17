@@ -4,7 +4,7 @@
 <!DOCTYPE html> 
 <head>
 <title>Travel Website</title>
-<link rel="stylesheet" href="assets/css/booking.css">
+<link rel="stylesheet" href="assets/css/contact.css">
 </head>  
 <body>
     <!-- post -->
@@ -12,14 +12,14 @@
     <container>
         <div class="row">
             <div class="col-md-12">
-                <h1>BOOKING NOW</h1>
+                <h1>CONTACT US</h1>
             </div>
         </div>
         
     </container>
 </section>
 
-<section class="booking">
+<section class="contact-us">
     <container>
         <div class="row">
             <div class="col-md-6">

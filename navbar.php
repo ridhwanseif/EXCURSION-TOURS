@@ -21,10 +21,10 @@
            
                <ul>
                    <li><a href="index.php">home</a></li>
-                   <li><a href="#">excursion & Tours</a></li>
+                   <li><a href="tours.php">excursion & Tours</a></li>
                    <li><a href="booking.php">booking</a></li>
                    <li><a href="destination.php#destination">destination</a></li>
-                   <li><a href="#">contact us</a></li>
+                   <li><a href="contact.php">contact us</a></li>
                </ul>
            </div>
        </div>

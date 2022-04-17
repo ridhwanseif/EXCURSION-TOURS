@@ -1,20 +1,5 @@
-/* header section */
- /* .header{
-    height: 100vh;
-    width: 100%;
-    overflow: hidden;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    text-align: center;
-    color: #fff;
-    padding-bottom: 325px; 
-    display: flex;
-    
-} */
 .header{
     height: 100%;
-    /* background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(assets/imegs/user6-128x128.jpg); */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -23,6 +8,7 @@
     padding-bottom: 85px;
     width: 100%;
     overflow: hidden;
+    border-radius: 20px 20px 20px 20px;
 }  
 /*
 .load{
@@ -120,12 +106,12 @@
  .distination{
     
     height: auto;
-    background-image: linear-gradient(rgba(237, 250, 251, 0.6),rgba(243, 229, 229, 0.6));
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     text-align: center;
     padding-bottom: 25px;
+    border-radius: 0 0 20px 20px;
 }
 .distination h1{
     text-align: center;
@@ -209,12 +195,12 @@
     background: #efefef;
     height: 100vh;
     height: 100%;
-    background-image: linear-gradient(rgba(199, 59, 59, 0.6),rgba(159, 163, 192, 0.6));
+    background-image: linear-gradient(rgba(237, 250, 251, 0.6),rgba(243, 229, 229, 0.6));
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     text-align: center;
-    
+    border-radius: 20px 20px 0 0;
     padding-bottom: 25px;
 }
 .gallary-box img{

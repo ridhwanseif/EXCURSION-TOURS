@@ -15,7 +15,7 @@
 </head>  
 <body>
 <!-- this is header section -->
-<section class="header" style="background-image: url('assets/imegs/background/oldest.jpg')">
+<section class="header" style="background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url('assets/imegs/background/oldest.jpg')">
            <div class="cotainer">
             <div class="animete">
           <div class="load">
@@ -35,7 +35,7 @@
        </section>
 
 <!--distination section -->
-       <section class="distination">
+       <section class="distination" >
            <h1>Our Transfer Destination</h1>
            <div class="container">
                <div class="row">
