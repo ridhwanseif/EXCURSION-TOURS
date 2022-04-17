@@ -12,11 +12,11 @@
 <script src="assets/js/scripts.js"></script>
 </head>   
 <body>
-<section class="nouth"  style="background-image: url('assets/imegs/zanzibar/g3.jpg')">
+<section class="z-area"  style="background-image: url('assets/imegs/zanzibar/g3.jpg')">
     <div class="container">
     <h1>Zanzibar South.</h1>
                 <div class="detais">               
-            <h4>Zanzibar north is the northern region of Zanzibar island consisting of main tourists destination including the village of Nungwi, Kendwa, Matemwe (the departure to Mnemba island), Pwani Mchangani and Kiwengwa. These are main and populer destination in Zanzibar north filled with a lot of activities, resorts and luxurious hotels. </h4>
+            <h4>Zanzibar South located south of the island of Unguja,is the part of Zanzibar five regions,like the north region of Zanzibar,the Zanzibar South region has a number of many attractive places such as Paje{the kitesurf paradice]where located many kite schools local and international.Jambiani village the hidden place for nomadic with nice sea breeze from Indian ocean.Kizimkazi[the Dolphin watching paradise]Kizimkazi has become a thrilling place for watching dolphins in their sorroundings,it a piece of for watching dolphins.Michamvi the one and only place for tranquility in the entire island as there is no chaos to this location,this is the perfect place to chill looking the Indian ocean while it becomes low tide and high and waiting for the sun set to come</h4>
                 </div>
             <div class="box-area">
                <div class="row">
@@ -52,7 +52,7 @@
 
 <section class="areas" >
     <div container>
-    <h1>Zanzibar North.</h1>
+    <h1>Zanzibar South.</h1>
 
 <div class="row">
               <div class="col-md-8">
@@ -83,7 +83,7 @@
 
                 <div class="col-md-6">
                 <h3>Paje</h3>
-                    <h5>Distance from Zanzibar airpot to Nungwi is 68.3km via Nungwi road and it takes around one hour with 30 minutes drive (1h:30m) </h5>
+                    <h5>Distance from Zanzibar airport to Paje is 49.9km and it takes 1 hour</h5>
     
                             
                             <div class="rating">
@@ -94,7 +94,7 @@
                             <i class="fa fa-star-o"></i>
                             </div>
                             <div class="price">
-                                <p>63$</p>
+                                <p>35$</p>
                             </div>
                             
                                 <div class="input-group-append">
@@ -131,7 +131,7 @@
 
                 <div class="col-md-6">
                 <h3>Bwejuu</h3>
-                    <h5>Transfer distance from Zanzibar airport to Kendwa is 63.3 km and it takes 1 hour 20 minutes,transfer price 40$</h5>
+                    <h5>Distance from Zanzibar airport to Bwejuu is 52.8km and it takes 1 hour</h5>
     
                             
                             <div class="rating">
@@ -142,7 +142,7 @@
                             <i class="fa fa-star-o"></i>
                             </div>
                             <div class="price">
-                                <p>63$</p>
+                                <p>35$</p>
                             </div>
                             
                                 <div class="input-group-append">
@@ -178,7 +178,7 @@
 
                 <div class="col-md-6">
                 <h3>Michamvi</h3>
-                    <h5>Transfer distance from Zanzibar airport to Matemwe is 50.4 km and it takes 1 hour ,transfer price 35$</h5>
+                    <h5>Distance from Zanzibar airport to Michamvi is 64.4km and it takes 1 hour with 20 minutes</h5>
     
                             
                             <div class="rating">
@@ -189,7 +189,7 @@
                             <i class="fa fa-star-o"></i>
                             </div>
                             <div class="price">
-                                <p>63$</p>
+                                <p>40$</p>
                             </div>
                             
                                 <div class="input-group-append">
@@ -224,7 +224,7 @@
 
                             <div class="col-md-6">
                             <h3>Jambiani</h3>
-                                <h5>Distance from Zanzibar airport to Kiwengwa is 45.9 km and it takes 1 hour,transfer price 35$</h5>
+                                <h5>Distance from Zanzibar airport to Jambiani is 55.5km and it takes 1 hour with 15 minutes </h5>
                 
                                         
                                         <div class="rating">
@@ -235,7 +235,7 @@
                                         <i class="fa fa-star-o"></i>
                                         </div>
                                         <div class="price">
-                                            <p>63$</p>
+                                            <p>35$</p>
                                         </div>
                                         
                                             <div class="input-group-append">
@@ -271,7 +271,7 @@
 
                             <div class="col-md-6">
                             <h3>Kizimkazi</h3>
-                                <h5>Distance from Zanzibar airport to Matemwe is around 44.9 km and it takes 1 hour,transfer price 35$ </h5>
+                                <h5>Distance from Zanzibar airport to Kizimkazi is 60.1km and it takes 1 hour with 15 minutes</h5>
                 
                                         
                                         <div class="rating">
@@ -282,7 +282,7 @@
                                         <i class="fa fa-star-o"></i>
                                         </div>
                                         <div class="price">
-                                            <p>63$</p>
+                                            <p>40$</p>
                                         </div>
                                         
                                             <div class="input-group-append">

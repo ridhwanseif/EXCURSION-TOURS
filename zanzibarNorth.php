@@ -12,7 +12,7 @@
 <script src="assets/js/scripts.js"></script>
 </head>   
 <body>
-<section class="nouth"  style="background-image: url('assets/imegs/zanzibar/g3.jpg')">
+<section class="z-area"  style="background-image: url('assets/imegs/zanzibar/g3.jpg')">
     <div class="container">
     <h1>Zanzibar North.</h1>
                 <div class="detais">               

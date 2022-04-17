@@ -12,9 +12,9 @@
 <script src="assets/js/scripts.js"></script>
 </head>   
 <body>
-<section class="nouth"  style="background-image: url('assets/imegs/zanzibar/g3.jpg')">
+<section class="z-area"  style="background-image: url('assets/imegs/zanzibar/g3.jpg')">
     <div class="container">
-    <h1>Zanzibar North.</h1>
+    <h1>Zanzibar Destination to Destination.</h1>
                 <div class="detais">               
             <h4>Zanzibar north is the northern region of Zanzibar island consisting of main tourists destination including the village of Nungwi, Kendwa, Matemwe (the departure to Mnemba island), Pwani Mchangani and Kiwengwa. These are main and populer destination in Zanzibar north filled with a lot of activities, resorts and luxurious hotels. </h4>
                 </div>

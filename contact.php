@@ -8,7 +8,7 @@
 </head>  
 <body>
     <!-- post -->
-    <section class="post" style="background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(assets/imegs/zanzibar/tour1.jpg)">
+    <section class="post" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(assets/imegs/zanzibar/tour1.jpg)">
     <container>
         <div class="row">
             <div class="col-md-12">

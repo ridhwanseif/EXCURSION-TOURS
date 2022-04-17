@@ -12,7 +12,7 @@
 <body>
 
 <!-- this is navbar -->
-     <section class="footer" style="background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(assets/imegs/zanzibar/tour1.jpg)">
+     <section class="footer" style="background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(assets/imegs/zanzibar/tour1.jpg)">
           
           <div class="row">
               

@@ -12,11 +12,11 @@
 <script src="assets/js/scripts.js"></script>
 </head>   
 <body>
-<section class="nouth"  style="background-image: url('assets/imegs/zanzibar/g3.jpg')">
+<section class="z-area"  style="background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('assets/imegs/zanzibar/car.jpeg')">
     <div class="container">
-    <h1>Zanzibar North.</h1>
+    <h1>Zanzibar Central/Urban.</h1>
                 <div class="detais">               
-            <h4>Zanzibar north is the northern region of Zanzibar island consisting of main tourists destination including the village of Nungwi, Kendwa, Matemwe (the departure to Mnemba island), Pwani Mchangani and Kiwengwa. These are main and populer destination in Zanzibar north filled with a lot of activities, resorts and luxurious hotels. </h4>
+            <h4>Zanzibar central and urban is the combination of visited destination in central and urban areas such as Pongwe village situated at central part of the island,it has a shore stretch straight with reef clif hanging on the beach and many rocks,Uroa is the fishing village at the central of the island where fish auctions witnessed at the fish markets whole sale and retails with varieties of fresh fishs,there are as well many luxurious hotels at Uroa village.the urban consist Stone town with its outskirt such as Manga Pwani,Kama and Bububu,they located out side Stone town a short from Stone town to these locations</h4>
                 </div>
             <div class="box-area">
                <div class="row">
@@ -44,7 +44,7 @@
                 </div>
                 </div>
                 </div>
-                <h4>Transfer Distance With Prices From Zanzibar Airport To North Zanzibar</h4>  
+                <h4>Transfer Distance With Prices From Zanzibar Airport To Central/Urban Zanzibar</h4>  
         </div>
 
         
@@ -52,7 +52,7 @@
 
 <section class="areas" >
     <div container>
-    <h1>Zanzibar North.</h1>
+    <h1>Zanzibar Central/Urban.</h1>
 
 <div class="row">
               <div class="col-md-8">
@@ -83,18 +83,18 @@
 
                 <div class="col-md-6">
                 <h3>Uroa</h3>
-                    <h5>Distance from Zanzibar airpot to Nungwi is 68.3km via Nungwi road and it takes around one hour with 30 minutes drive (1h:30m) </h5>
+                    <h5>Distance from Zanzibar airport to Uroa is 39.7km and it takes 57 minutes,transfer price </h5>
     
                             
                             <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
-                            <i class="fa fa-star-half-o"></i>
-                            <i class="fa fa-star-o"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
                             </div>
                             <div class="price">
-                                <p>63$</p>
+                                <p>35$</p>
                             </div>
                             
                                 <div class="input-group-append">
@@ -131,7 +131,7 @@
 
                 <div class="col-md-6">
                 <h3>Marumbi</h3>
-                    <h5>Transfer distance from Zanzibar airport to Kendwa is 63.3 km and it takes 1 hour 20 minutes,transfer price 40$</h5>
+                    <h5>Distance from Zanzibar airport to Marumbi is 36.9km and it takes 52 minutes,transfer price </h5>
     
                             
                             <div class="rating">
@@ -142,7 +142,7 @@
                             <i class="fa fa-star-o"></i>
                             </div>
                             <div class="price">
-                                <p>63$</p>
+                                <p>35$</p>
                             </div>
                             
                                 <div class="input-group-append">
@@ -178,7 +178,7 @@
 
                 <div class="col-md-6">
                 <h3>Pongwe</h3>
-                    <h5>Transfer distance from Zanzibar airport to Matemwe is 50.4 km and it takes 1 hour ,transfer price 35$</h5>
+                    <h5>Distance from Zanzibar airport to Pongwe is 40.3km and it takes 1 hour,transfer price </h5>
     
                             
                             <div class="rating">
@@ -189,7 +189,7 @@
                             <i class="fa fa-star-o"></i>
                             </div>
                             <div class="price">
-                                <p>63$</p>
+                                <p>35$</p>
                             </div>
                             
                                 <div class="input-group-append">
@@ -224,7 +224,7 @@
 
                             <div class="col-md-6">
                             <h3>Stone town</h3>
-                                <h5>Distance from Zanzibar airport to Kiwengwa is 45.9 km and it takes 1 hour,transfer price 35$</h5>
+                                <h5>Distance from Zanzibar airport to Stone town is 7.4km and it takes 10 minutes,transfer price </h5>
                 
                                         
                                         <div class="rating">
@@ -235,7 +235,7 @@
                                         <i class="fa fa-star-o"></i>
                                         </div>
                                         <div class="price">
-                                            <p>63$</p>
+                                            <p>15$</p>
                                         </div>
                                         
                                             <div class="input-group-append">
@@ -271,7 +271,7 @@
 
                             <div class="col-md-6">
                             <h3>Seacliff hotel</h3>
-                                <h5>Distance from Zanzibar airport to Matemwe is around 44.9 km and it takes 1 hour,transfer price 35$ </h5>
+                                <h5>Distance from airport to Seacliff hotel is 20.7km and it takes 49 minutes,transfer price  </h5>
                 
                                         
                                         <div class="rating">
@@ -282,7 +282,7 @@
                                         <i class="fa fa-star-o"></i>
                                         </div>
                                         <div class="price">
-                                            <p>63$</p>
+                                            <p>25$</p>
                                         </div>
                                         
                                             <div class="input-group-append">
