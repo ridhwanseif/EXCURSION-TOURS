@@ -5,9 +5,11 @@
 <head>
 <title>Travel Website</title>
 <link rel="stylesheet" href="assets/css/zanzibarArea.css">
+<!-- jQ -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <!-- slick carousel -->
-<!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script> -->
-<script type="text/javascript" src="assets/js/slick-1.8.1/slick/slick.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<!-- <script type="text/javascript" src="assets/js/slick-1.8.1/slick/slick.min.js"></script> -->
 <!-- scripts -->
 <script src="assets/js/scripts.js"></script>
 </head>   
@@ -18,32 +20,42 @@
                 <div class="detais">               
             <h4>Zanzibar north is the northern region of Zanzibar island consisting of main tourists destination including the village of Nungwi, Kendwa, Matemwe (the departure to Mnemba island), Pwani Mchangani and Kiwengwa. These are main and populer destination in Zanzibar north filled with a lot of activities, resorts and luxurious hotels. </h4>
                 </div>
-            <div class="box-area">
+            
                <div class="row">
                 <div class="col-md-12">
-                 <div class="gallary-box-area">
-                            <div class="slider-area-1">
-                                <figure>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g2.jpg" alt="">
+
+                <i class="fas fa-chevron-left prev"></i>
+                 <div class="page-wrapper">
+                            <div class="post-slider">
+                                <div class="post-wrapper">
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g1.jpg" alt="">
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/background/oldest.jpg" alt="">
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g2.jpg" alt="">
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g1.jpg" alt="">
-                                </figure>
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
+                                    </div>
                                 </div>
-                 </div>
+                            </div>
+                 </div>      
+                 <i class="fas fa-chevron-right next"></i>
+                
+                
                 </div>
                 </div>
-                </div>
+                
                 <h4>Transfer Distance With Prices From Zanzibar Airport To North Zanzibar</h4>  
         </div>
 

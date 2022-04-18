@@ -5,9 +5,11 @@
 <head>
 <title>Travel Website</title>
 <link rel="stylesheet" href="assets/css/zanzibarArea.css">
+<!-- jQ -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <!-- slick carousel -->
-<!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script> -->
-<script type="text/javascript" src="assets/js/slick-1.8.1/slick/slick.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<!-- <script type="text/javascript" src="assets/js/slick-1.8.1/slick/slick.min.js"></script> -->
 <!-- scripts -->
 <script src="assets/js/scripts.js"></script>
 </head>   
@@ -18,30 +20,37 @@
                 <div class="detais">               
             <h4>Zanzibar South located south of the island of Unguja,is the part of Zanzibar five regions,like the north region of Zanzibar,the Zanzibar South region has a number of many attractive places such as Paje{the kitesurf paradice]where located many kite schools local and international.Jambiani village the hidden place for nomadic with nice sea breeze from Indian ocean.Kizimkazi[the Dolphin watching paradise]Kizimkazi has become a thrilling place for watching dolphins in their sorroundings,it a piece of for watching dolphins.Michamvi the one and only place for tranquility in the entire island as there is no chaos to this location,this is the perfect place to chill looking the Indian ocean while it becomes low tide and high and waiting for the sun set to come</h4>
                 </div>
-            <div class="box-area">
                <div class="row">
                 <div class="col-md-12">
-                 <div class="gallary-box-area">
-                            <div class="slider-area-1">
-                                <figure>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g2.jpg" alt="">
+                 
+                <i class="fas fa-chevron-left prev"></i>
+                 <div class="page-wrapper">
+                            <div class="post-slider">
+                                <div class="post-wrapper">
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g1.jpg" alt="">
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/background/oldest.jpg" alt="">
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g2.jpg" alt="">
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g1.jpg" alt="">
-                                </figure>
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
+                                    </div>
                                 </div>
-                 </div>
-                </div>
+                            </div>
+                 </div>      
+                 <i class="fas fa-chevron-right next"></i>
+
                 </div>
                 </div>
                 <h4>Transfer Distance With Prices From Zanzibar Airport To South Zanzibar</h4>  
@@ -58,7 +67,7 @@
               <div class="col-md-8">
               
      <!-- Paje -->
-<div class="box-area" id="southPaje">">
+<div class="box-area" id="southPaje">
 <div class="gallary-north-box">
            
               <div class="row">

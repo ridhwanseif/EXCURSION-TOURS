@@ -7,18 +7,64 @@
     background-attachment: fixed;
     text-align: center;
     color: #fff;
-    padding-bottom: 0; 
     overflow: hidden;
     border-radius: 20px 20px 20px 20px;
 }
-.nouth h1{
+.z-area h1{
     padding-top: 50px;
-    padding-bottom: 0;
+    padding-bottom: 10px;
 }
 .gallary-box-area{
     border-radius: 10px;
    
 }
+/* slider */
+.col-md-12{
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+
+ .next{
+    position: absolute;
+    top: 35%;
+    right: 10px;
+    font-size: 2em;
+    color: aqua;
+    cursor: pointer;
+    
+}
+.prev{
+    position: absolute;
+    top: 35%;
+    left: 10px;
+    font-size: 2em;
+    color: aqua;
+    cursor: pointer;
+}
+.page-wrapper{
+    width: 90%;
+    height: 250px;
+    margin: 0px auto;
+    border: #1f3d90;
+    overflow: hidden;
+    padding: 10px 0px 10px 0px;
+}
+.post{
+    height: 350px;
+    width: 250px;
+    display: inline-block;
+    margin: 0 10px 0 ;
+    
+}
+.post .slider-image{
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
 .slider-area-1 figure div{
     float: left;
     width: 20%;

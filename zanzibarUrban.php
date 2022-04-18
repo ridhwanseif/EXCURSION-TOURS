@@ -5,9 +5,11 @@
 <head>
 <title>Travel Website</title>
 <link rel="stylesheet" href="assets/css/zanzibarArea.css">
+<!-- jQ -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <!-- slick carousel -->
-<!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script> -->
-<script type="text/javascript" src="assets/js/slick-1.8.1/slick/slick.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<!-- <script type="text/javascript" src="assets/js/slick-1.8.1/slick/slick.min.js"></script> -->
 <!-- scripts -->
 <script src="assets/js/scripts.js"></script>
 </head>   
@@ -16,34 +18,42 @@
     <div class="container">
     <h1>Zanzibar Central/Urban.</h1>
                 <div class="detais">               
-            <h4>Zanzibar central and urban is the combination of visited destination in central and urban areas such as Pongwe village situated at central part of the island,it has a shore stretch straight with reef clif hanging on the beach and many rocks,Uroa is the fishing village at the central of the island where fish auctions witnessed at the fish markets whole sale and retails with varieties of fresh fishs,there are as well many luxurious hotels at Uroa village.the urban consist Stone town with its outskirt such as Manga Pwani,Kama and Bububu,they located out side Stone town a short from Stone town to these locations</h4>
+                    <h4>Zanzibar central and urban is the combination of visited destination in central and urban areas such as Pongwe village situated at central part of the island,it has a shore stretch straight with reef clif hanging on the beach and many rocks,Uroa is the fishing village at the central of the island where fish auctions witnessed at the fish markets whole sale and retails with varieties of fresh fishs,there are as well many luxurious hotels at Uroa village.the urban consist Stone town with its outskirt such as Manga Pwani,Kama and Bububu,they located out side Stone town a short from Stone town to these locations</h4>
                 </div>
-            <div class="box-area">
                <div class="row">
                 <div class="col-md-12">
-                 <div class="gallary-box-area">
-                            <div class="slider-area-1">
-                                <figure>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g2.jpg" alt="">
+               
+                <i class="fas fa-chevron-left prev"></i>
+                 <div class="page-wrapper">
+                            <div class="post-slider">
+                                <div class="post-wrapper">
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g1.jpg" alt="">
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/background/oldest.jpg" alt="">
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g2.jpg" alt="">
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                     </div>
-                                    <div class="slide">
-                                        <img src="assets/imegs/zanibar/g1.jpg" alt="">
-                                </figure>
+
+                                    <div class="post">
+                                         <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
+                                    </div>
                                 </div>
-                 </div>
+                            </div>
+                 </div>      
+                 <i class="fas fa-chevron-right next"></i>
+                
                 </div>
                 </div>
-                </div>
+
                 <h4>Transfer Distance With Prices From Zanzibar Airport To Central/Urban Zanzibar</h4>  
         </div>
 
