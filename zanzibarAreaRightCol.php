@@ -1,7 +1,8 @@
 <div class="col4-col">
             <div class="col4-box-seach">
-                <div class="input-group"> 
-                <input type="text" class="form-control" placeholder="search your trip">
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="Search">
+                    <button class="btn btn-primary" type="submit">Go</button>
                 </div>
             </div>
 

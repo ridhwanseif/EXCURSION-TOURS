@@ -26,15 +26,5 @@
 h3{
     text-align: center;
     padding-top: 50px;
-    padding-bottom: 10px;
-  
-}
-.col-md-6 a:hover{
-    font-size: 20px;
-}
-.col-md-6{
-    padding-bottom: 20px;
-}
-.col-md-6 a{
-    text-decoration: none;
+    padding-bottom: 10px; 
 }

@@ -27,13 +27,22 @@
                                 <table class="table table-hover">
                                     <tbody>
                                         <tr>
-                                            <td></td>
+                                            <td>
+                                                <label><b> About us:</b></label>
+                                                <p>welcame to the Zanzibar taxi and tours, we are here to complete the needs of your taxi transfer services from airport to hotel and from hotel to hotel across the Zanzibar.</p>
+                                            </td>
                                         </tr>
                                         <tr>
-                                            <td></td>
+                                            <td>
+                                                <label><b>Warkinig Expriance:</b></label>
+                                                <p>welcame to the Zanzibar taxi and tours, we are here to complete the needs of your taxi transfer services from airport to hotel and from hotel to hotel across the Zanzibar.</p>
+                                            </td>
                                         </tr>
                                         <tr>
-                                            <td></td>
+                                            <td>
+                                                <label><b>Warkinig Area:</b></label>
+                                                <p>welcame to the Zanzibar taxi and tours, we are here to complete the needs of your taxi transfer services from airport to hotel and from hotel to hotel across the Zanzibar.</p>
+                                            </td>
                                         </tr>
                                        
                                         </tbody>
@@ -43,25 +52,39 @@
 
             <div class="col-md-6">
             <div class="container mt-3">
-                                <table class="table table-hover">
-                                    <tbody>
-                                        <tr>
-                                            <td></td>
-                                        </tr>
-                                        <tr>
-                                            <td></td>
-                                        </tr>
-                                        <tr>
-                                            <td></td>
-                                        </tr>
-                                       
-                                        </tbody>
-                                </table>
+                <form action="">             
+                <table class="table table-hover">
+                          <tbody>
+                            <tr>
+                                <td>
+                                <label for="comment"><b>Contact us via Email:</b></label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="Your Email">
+                                        <span class="input-group-text">@example.com</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="mb-3 mt-3">
+                                    <label for="comment"><b>Comments:</b></label>
+                                    <textarea class="form-control" rows="5" id="comment" name="text" placeholder="live your comment here..."></textarea>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary">Submit</button>
+                                </td>
+                            </tr>
+                        
+                            </tbody>
+                    </table>
+                    </form> 
                 </div>
             </div>
                 
             </div>
-        </div>
         
     </container>
 </section>
