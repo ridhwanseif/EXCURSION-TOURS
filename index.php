@@ -245,6 +245,7 @@
                 <div class="col-md-3">
                  <div class="gallary-box">
                                 <div class="slider">
+                                <a href="tours.php#stoneTown">
                                 <figure>
                                     <div class="slide">
                                         <img src="assets/imegs/zanibar/g2.jpg" alt="">
@@ -256,6 +257,7 @@
                                         <img src="assets/imegs/background/oldest.jpg" alt="">
                                     </div>
                                 </figure>
+                                </a>
                                 </div>
                  <h4>Stone town</h4>
                  </div>
@@ -264,6 +266,7 @@
                 <div class="col-md-3">
                  <div class="gallary-box">
                                 <div class="slider">
+                                <a href="tours.php#jozani">
                                 <figure>
                                     <div class="slide">
                                         <img src="assets/imegs/zanibar/g2.jpg" alt="">
@@ -275,6 +278,7 @@
                                         <img src="assets/imegs/background/oldest.jpg" alt="">
                                     </div>
                                 </figure>
+                                </a>
                                 </div>
                  <h4>Jozani Forest</h4>
                  </div>
@@ -283,6 +287,7 @@
                 <div class="col-md-3">
                  <div class="gallary-box">
                                 <div class="slider">
+                                <a href="tours.php#spice">
                                 <figure>
                                     <div class="slide">
                                         <img src="assets/imegs/zanibar/g2.jpg" alt="">
@@ -294,6 +299,7 @@
                                         <img src="assets/imegs/background/oldest.jpg" alt="">
                                     </div>
                                 </figure>
+                                </a>
                                 </div>
                  <h4>Spice tour</h4>
                  </div>
@@ -305,6 +311,7 @@
                 <div class="col-md-3">
                  <div class="gallary-box">
                                 <div class="slider">
+                                <a href="tours.php#mnemba">
                                 <figure>
                                     <div class="slide">
                                         <img src="assets/imegs/zanibar/g2.jpg" alt="">
@@ -316,6 +323,7 @@
                                         <img src="assets/imegs/background/oldest.jpg" alt="">
                                     </div>
                                 </figure>
+                                </a>
                                 </div>
                  <h4>Mnemba Island</h4>
                  </div>
@@ -324,6 +332,7 @@
                 <div class="col-md-3">
                  <div class="gallary-box">
                                 <div class="slider">
+                                <a href="tours.php#dolphin">
                                 <figure>
                                     <div class="slide">
                                         <img src="assets/imegs/zanibar/g2.jpg" alt="">
@@ -335,6 +344,7 @@
                                         <img src="assets/imegs/background/oldest.jpg" alt="">
                                     </div>
                                 </figure>
+                                </a>
                                 </div>
                  <h4>Kizimkazi</h4>
                  </div>
@@ -343,6 +353,7 @@
                 <div class="col-md-3">
                  <div class="gallary-box">
                                 <div class="slider">
+                                <a href="tours.php#sandbank">
                                 <figure>
                                     <div class="slide">
                                         <img src="assets/imegs/zanibar/g2.jpg" alt="">
@@ -354,6 +365,7 @@
                                         <img src="assets/imegs/background/oldest.jpg" alt="">
                                     </div>
                                 </figure>
+                                </a>
                                 </div>
                  <h4>Nakupenda sandbank</h4>
                  </div>
@@ -362,6 +374,7 @@
                 <div class="col-md-3">
                  <div class="gallary-box">
                                 <div class="slider">
+                                <a href="tours.php#prison">
                                 <figure>
                                     <div class="slide">
                                         <img src="assets/imegs/zanibar/g2.jpg" alt="">
@@ -373,6 +386,7 @@
                                         <img src="assets/imegs/background/oldest.jpg" alt="">
                                     </div>
                                 </figure>
+                                </a>
                                 </div>
                  <h4>Prison Island</h4>
                  </div>
