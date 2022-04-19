@@ -19,19 +19,15 @@
                                         <div class="post">
                                             <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                         </div>
-
                                         <div class="post">
                                             <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                         </div>
-
                                         <div class="post">
                                             <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                         </div>
-
                                         <div class="post">
                                             <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                         </div>
-
                                         <div class="post">
                                             <img src="assets/imegs/background/oldest.jpg" alt="" class="slider-image">
                                         </div>
@@ -40,6 +36,5 @@
                                 </div>      
                                 <i class="fas fa-chevron-right next"></i>
                         </div>
-
                       </div>
                 </section>

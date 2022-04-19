@@ -122,19 +122,6 @@
                 </div>
             </div>
 
-            <div class="col4-box">
-                <div class="container mt-3">
-                <table class="table table-hover">
-                    <thead>
-                    <tr>
-                        <th>Tours</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                   
-                    </tbody>
-                </table>
-                </div>
-            </div>
+           
 
             </div>

@@ -1,6 +1,7 @@
 
 <div class="container mt-2">
-                <table class="table table-hover">
+        <div class="tab">     
+        <table class="table table-hover">
                     <thead>
                     <tr>
                         <th>Tours</th>
@@ -8,26 +9,32 @@
                     </thead>
                     <tbody>
                     <tr>
-                        <td><a href="tours.php#safariBlue">Safari Blue</a></td>
+                        <td><button class="tablinks" onclick="openCity(event, 'safariBlue')" id="defaultOpen" >Safari Blue</button></td>
                     </tr>
                     <tr>
-                        <td><a href="tours.php?#stoneTown">Stone town</a></td>
+                        <td><button class="tablinks" onclick="openCity(event, 'stoneTown')">Stone Town</button></td>
                     </tr>
                     <tr>
-                        <td><a href="tours.php#jozan">Jozani Forest</a></td>
+                        <td><button class="tablinks" onclick="openCity(event, 'jozani')">Jozani Forest</button></td>
                     </tr>
                     <tr>
-                        <td><a href="tours.php#spice">Spice tour</a></td>
+                        <td><button class="tablinks" onclick="openCity(event, 'spice')">Spice tour</button></td>
                     </tr>
                     <tr>
-                        <td><a href="tours.php#mnemba">Mnemba Island</a></td>
+                        <td><button class="tablinks" onclick="openCity(event, 'mnemba')">Mnemba Island</button></td>
                     </tr>
-                        <td><a href="tours.php#dolphin">Kizimkazi Dolphin</a></td>
+                        <td><button class="tablinks" onclick="openCity(event, 'dolphin')">Kizimkazi Dolphin</button></td>
                     </tr>
-                        <td><a href="tours.php#sandbank">Nakupenda sandbank </a></td>
+                        <td><button class="tablinks" onclick="openCity(event, 'sandbank')">Nakupenda sandbank </button></td>
                     </tr>
-                        <td><a href="tours.php#prison">Prison Island</a></td>
+                        <td><button class="tablinks" onclick="openCity(event, 'prison')">Prison Island</button></td>
                     </tr>
                     </tbody>
                 </table>
+                </div>
+                    <!-- <div class="tab">
+                    <button class="tablinks" onclick="openCity(event, 'safariBlue')" id="defaultOpen">Safari Blue</button>
+                    <button class="tablinks" onclick="openCity(event, 'stoneTown')">Stone Town</button>
+                    <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+                    </div> -->
                 </div>

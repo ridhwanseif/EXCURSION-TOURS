@@ -12,6 +12,7 @@
 <!-- <script type="text/javascript" src="assets/js/slick-1.8.1/slick/slick.min.js"></script> -->
 <!-- scripts -->
 <script src="assets/js/scripts.js"></script>
+
 </head>  
 <body>
     <!-- post -->
@@ -37,10 +38,38 @@
 
             <!-- tours ares -->
          <div class="col-md-10">
-                               
-                     <?php include 'safariBlue.php';?>
-                                        
-                        
+                
+                     <div id="safariBlue" class="tabcontent">          
+                     <?php include 'safariBlue.php'?>
+                     </div> 
+
+                     <div id="stoneTown" class="tabcontent">          
+                     <?php include 'StoneTown.php'?>
+                     </div>
+
+                     <div id="jozani" class="tabcontent">          
+                     <?php include 'jozani.php'?>
+                     </div>
+
+                     <div id="spice" class="tabcontent">          
+                     <?php include 'spice.php'?>
+                     </div>
+
+                     <div id="mnemba" class="tabcontent">          
+                     <?php include 'mnemba.php'?>
+                     </div>
+
+                     <div id="sandbank" class="tabcontent">          
+                     <?php include 'nakupenda.php'?>
+                     </div>
+
+                     <div id="prison" class="tabcontent">          
+                     <?php include 'prison.php'?>
+                     </div>
+
+                     <div id="dolphin" class="tabcontent">          
+                     <?php include 'kizimkazi.php'?>              
+                     </div>       
             </div>
         </div>
     </container>
